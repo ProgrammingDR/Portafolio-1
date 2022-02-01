@@ -134,6 +134,10 @@ section {
   min-height: calc(100vh - 6.5rem);
 }
 
+.a{
+  text-transform: none;
+}
+
 .home .image {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
