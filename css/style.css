@@ -148,6 +148,8 @@ section {
 .home .image img {
   height: 50rem;
   width: 50rem;
+  border: solid 5px;
+  border-color: crimson;
   border-radius: 100%;
 }
 
