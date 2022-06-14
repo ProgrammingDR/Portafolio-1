@@ -150,7 +150,7 @@ section {
   width: 50rem;
   border: solid 5px;
   border-color: crimson;
-  border-radius: 100%;
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
 }
 
 .home .image2 img {
