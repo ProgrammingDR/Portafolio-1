@@ -134,10 +134,6 @@ section {
   min-height: calc(100vh - 6.5rem);
 }
 
-.a{
-  text-transform: none;
-}
-
 .home .image {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
@@ -183,6 +179,7 @@ section {
   color: #aaa;
   padding: 1rem 0;
   line-height: 2;
+  text-transform: none;
 }
 
 .about .row {
@@ -364,6 +361,13 @@ section {
   color: #aaa;
   line-height: 2;
 }
+
+ul{
+  font-size: 1.5rem;
+  color: #aaa;
+  line-height: 2;
+}
+
 
 .portfolio {
   text-align: center;
